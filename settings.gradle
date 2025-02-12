@@ -1,0 +1,3 @@
+rootProject.name = "App Covid19 2429"
+include ':app'
+
